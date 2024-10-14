@@ -3,7 +3,7 @@ Uma ferramenta poderosa para desenterrar informações ocultas em domínios.
 
 
 # Clonar o repositório / Clone repo
-git clone ttps://github.com/Akirasz/DomainDiver
+git clone https://github.com/Akirasz/DomainDiver
 
 # Como utilizar / Usage
 python main.py google.com
